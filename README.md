@@ -1,4 +1,4 @@
-## <h1 align="center"> ¡Hola! 😁 Soy Kevin Madrid. </h1>
+## <h1 align="center"> Hi! 😁 I'm Kevin Madrid. </h1>
 
 * 📍 Perú.
 * 👨🏻‍💻 Student & Developer. 
