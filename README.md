@@ -5,7 +5,7 @@
 * 🏢 Universidad Nacional de Piura.
 * ⚙️ Oracle Next Education student.
 * 💻 Frontend Developer.
-* 📁 My projects: ![https://github.com/K3yJey]
+* 📁 My projects: [Github/K3yJey](https://github.com/K3yJey)
 
 
 ## 🌐 Socials:
