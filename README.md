@@ -7,7 +7,6 @@
 * 💻 Frontend Developer.
 * 📁 My projects: [Github/K3yJey](https://github.com/K3yJey)
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/k3yjey-dev)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/K3yJey)
