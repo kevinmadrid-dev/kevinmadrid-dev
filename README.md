@@ -1,18 +1,18 @@
 <h1 align="center">Hi! 😁 I'm Kevin Madrid</h1>
 <h3 align="center">A younger Frontend dev from Perú</h3>
 
-* 📍 Perú.
-* 👨🏻‍💻 Student & Developer.
-* 🏢 Universidad Nacional de Piura.
-* ⚙️ Oracle Next Education student.
-* 💻 Frontend Developer.
-* 📁 All of my projects are available at [Github/K3yJey](https://github.com/K3yJey)
-* 📫 How to reach me *kjmr107@gmail.com*
+- 📍 Perú.
+- 👨🏻‍💻 Student & Developer.
+- 🏢 Universidad Nacional de Piura.
+- ⚙️ Oracle Next Education student.
+- 💻 Frontend Developer.
+- 📁 All of my projects are available at [Github/K3yJey](https://github.com/K3yJey)
+- 📫 How to reach me *kjmr107@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/k3yjey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="k3yjey" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/k3yjey-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="k3yjey-dev" height="30" width="40" /></a>
+<a href="https://twitter.com/k3yjey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="k3yjey" height="30" width="40" /></a>
 <a href="https://fb.com/k3yjey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="k3yjey" height="30" width="40" /></a>
 <a href="https://instagram.com/k3yjey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k3yjey" height="30" width="40" /></a>
 </p>
