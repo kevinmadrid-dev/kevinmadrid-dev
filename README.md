@@ -5,7 +5,7 @@
 - 👨🏻‍💻 Student & Developer.
 - 🏢 Universidad Nacional de Piura.
 - ⚙️ Oracle Next Education student.
-- 💻 Frontend Developer.
+- 💻 FullStack Developer.
 - 📁 All of my projects are available at [Github/K3yJey](https://github.com/K3yJey)
 - 📫 How to reach me *kjmr107@gmail.com*
 
