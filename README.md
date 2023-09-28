@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/k3yjey-dev" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="k3yjey-dev"/></a> </br>
-<a href="https://instagram.com/k3yjey" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="k3yjey" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/k3yjey-dev" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="k3yjey-dev"/></a> </br> </br>
+<a href="https://instagram.com/k3yjey" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="k3yjey"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
