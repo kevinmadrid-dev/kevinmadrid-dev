@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Kevin Madrid 😁</h1>
-<h3 align="center">A younger FullStack Developer from Perú</h3>
+<h3 align="center">A younger FrontEnd Developer from Perú</h3>
 
 - 📍 Perú.
 - 👨🏻‍💻 Student & Developer.
