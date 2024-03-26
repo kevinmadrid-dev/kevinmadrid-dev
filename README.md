@@ -2,12 +2,10 @@
 <h3 align="center">A younger FrontEnd Developer from Perú</h3>
 
 - 📍 Perú.
-- 👨🏻‍💻 Student & Developer.
-- 🏢 Universidad Nacional de Piura.
-- ⚙️ Oracle Next Education.
-- 💻 FrontEnd Developer.
+- 👨🏻‍💻 FrontEnd Developer.
+- 🏢 Universidad Nacional de Piura & Oracle Next Education.
 - 📁 All of my projects are available at [Github/K3yJey](https://github.com/K3yJey)
-- 📫 How to reach me *kjmr107@gmail.com*
+- 📫 Contact <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kjmr107@gmail.com&su=Asunto&body=Hi!%20" target="_blank">Gmail</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -59,7 +57,7 @@
 </a>
 
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
+<img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
 </a>
 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
