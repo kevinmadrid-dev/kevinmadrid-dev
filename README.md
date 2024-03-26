@@ -5,7 +5,7 @@
 - 👨🏻‍💻 FrontEnd Developer.
 - 🏢 Universidad Nacional de Piura & Oracle Next Education.
 - 📁 All of my projects are available at [Github/K3yJey](https://github.com/K3yJey)
-- 📫 Contact <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kjmr107@gmail.com&su=Asunto&body=Hi!%20" target="_blank">Gmail</a>
+- 📫 Contact <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kjmr107@gmail.com&su=Meeting&body=Hi!%20" target="_blank">Gmail/K3yJey</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
