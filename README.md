@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kevinmadrid-dev/" target="blank">
-<p>LinkedIn</p> 
+<img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="k3yjey-dev"/>
 </a>
 
 <br/>
