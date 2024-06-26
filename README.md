@@ -9,15 +9,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kevinmadrid-dev/" target="blank">
-<img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="k3yjey-dev"/>
-</a>
+<a href="https://www.linkedin.com/in/kevinmadrid-dev/" target="_blank">LinkedIn</a>
 
 <br/>
 
-<a href="https://instagram.com/k3yjey" target="blank">
-<img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="k3yjey"/>
-</a>
+<a href="https://www.instagram.com/kevmadrid_/" target="_blank">Instagram</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
