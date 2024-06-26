@@ -9,11 +9,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kevinmadrid-dev/" target="_blank">LinkedIn</a>
+- LinkedIn => <a href="https://www.linkedin.com/in/kevinmadrid-dev/" target="_blank">LinkedIn/kevinmadrid-dev</a>
 
 <br/>
 
-<a href="https://www.instagram.com/kevmadrid_/" target="_blank">Instagram</a>
+- Instagram => <a href="https://www.instagram.com/kevmadrid_/" target="_blank">Instagram/kevmadrid_</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
