@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-- LinkedIn => <a href="https://www.linkedin.com/in/kevinmadrid-dev/" target="_blank">LinkedIn/kevinmadrid-dev</a>
+* LinkedIn => <a href="https://www.linkedin.com/in/kevinmadrid-dev/" target="_blank">LinkedIn/kevinmadrid-dev</a>
 
 <br/>
 
