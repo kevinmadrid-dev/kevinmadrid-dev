@@ -13,7 +13,7 @@
 
 <br/>
 
-- Instagram => <a href="https://www.instagram.com/kevmadrid_/" target="_blank">Instagram/kevmadrid_</a>
+- Instagram => <a href="https://www.instagram.com/kevmadrid_/" target="_blank">Instagram/kevmadrid\_</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -93,4 +93,8 @@
 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=k3yjey&show_icons=true&locale=en&layout=compact" alt="k3yjey" /></p>
+<h3 align="left">Most Used Languages:</h3>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=k3yjey&show_icons=true&locale=en&layout=compact" alt="k3yjey" />
+</p>
