@@ -8,14 +8,8 @@
 - 📫 Contact <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kjmr107@gmail.com&su=Meeting&body=Hi!%20" target="_blank">Gmail/K3yJey</a>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 - LinkedIn  <a href="https://www.linkedin.com/in/kevinmadrid-dev/" target="_blank">LinkedIn/kevinmadrid-dev</a>
-
-<br/>
-
 - Instagram <a href="https://www.instagram.com/kevmadrid_/" target="_blank">Instagram/kevmadrid\_</a>
-
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
