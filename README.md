@@ -9,6 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 - LinkedIn  <a href="https://www.linkedin.com/in/kevinmadrid-dev/" target="_blank">LinkedIn/kevinmadrid-dev</a>
+
+<br/>
+
 - Instagram <a href="https://www.instagram.com/kevmadrid_/" target="_blank">Instagram/kevmadrid\_</a>
 
 <h3 align="left">Languages and Tools:</h3>
