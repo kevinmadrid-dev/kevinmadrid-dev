@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Kevin Madrid 😁</h1>
-<h3 align="center">A younger FrontEnd Developer from Perú</h3>
+<h3 align="center">FrontEnd Developer</h3>
 
 - 📍 Perú.
 - 👨🏻‍💻 FrontEnd Developer.
@@ -9,9 +9,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/k3yjey-dev" target="blank">
-<img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="k3yjey-dev"/>
+<a href="https://www.linkedin.com/in/kevinmadrid-dev/" target="blank">
+<p>LinkedIn</p> 
 </a>
+
+<br/>
 
 <a href="https://instagram.com/k3yjey" target="blank">
 <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="k3yjey"/>
