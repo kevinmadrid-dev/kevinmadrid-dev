@@ -6,10 +6,10 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kjmr107@gmail.com&su=Meeting&body=Hi!%20" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/kevinmadrid-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/kevinmadrid-dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="www.instagram.com/kevmadrid_" target="_blank">
+  <a href="https://www.instagram.com/kevmadrid_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
@@ -20,7 +20,10 @@
 
 ###
 
-<p align="left">📍 Perú.<br>👨🏻‍💻 FrontEnd Developer.<br>🏢 Universidad Nacional de Piura & Oracle Next Education.</p>
+<p align="left">📍 Piura, Perú.</p>
+<p align="left">👨🏻‍💻 Frontend Developer.</p>
+<P align="left">🖱️ Ingeniero Informático.</p>
+<p align="left">🏢 Universidad Nacional de Piura & Oracle Next Education.</p>
 
 ###
 
