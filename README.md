@@ -16,14 +16,19 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<p align="left">📍 Piura, Perú.</p>
-<p align="left">👨🏻‍💻 Frontend Developer.</p>
-<P align="left">🖱️ Ingeniero Informático.</p>
-<p align="left">🏢 Universidad Nacional de Piura & Oracle Next Education.</p>
+<p align="left">
+  📍 Piura, Perú.
+  <br/>
+  👨🏻‍💻 Frontend Developer.
+  <br/>
+  🖱️ Ingeniero Informático.
+  <br/>
+  🏢 Universidad Nacional de Piura & Oracle Next Education.
+</p>
 
 ###
 
@@ -65,7 +70,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats</h3>
+<h3 align="left">🔥 My Stats</h3>
 
 ###
 
