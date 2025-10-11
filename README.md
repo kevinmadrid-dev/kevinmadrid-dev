@@ -23,9 +23,9 @@
 <p align="left">
   📍 Piura, Perú.
   <br/>
-  👨🏻‍💻 Frontend Developer.
+  👨🏻‍💻 Ingeniero Informático & Fullstack Developer.
   <br/>
-  🖱️ Ingeniero Informático.
+  🖱️ NTT DATA Europe and Latam.
   <br/>
   🏢 Universidad Nacional de Piura & Oracle Next Education.
 </p>
