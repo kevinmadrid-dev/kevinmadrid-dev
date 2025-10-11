@@ -23,7 +23,7 @@
 <p align="left">
   📍 Piura, Perú.
   <br/>
-  🖱️ NTT DATA Europe and Latam.
+  🖱️ NTT DATA Europe & Latam.
   <br/>
   👨🏻‍💻 Ingeniero Informático & Fullstack Developer.
   <br/>
