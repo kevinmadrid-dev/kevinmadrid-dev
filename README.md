@@ -1,24 +1,4 @@
-<h1 align="center">Hi! I'm Kevin Madrid 😁</h1>
-
-###
-
-<div align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kjmr107@gmail.com&su=Meeting&body=Hi!%20" target="_blank">
-    <img src="./src/gmail.svg" height="32" alt="gmail" style="margin: 4px">
-  </a>
-
-  <a href="https://www.linkedin.com/in/kevinmadrid-dev" target="_blank">
-    <img src="./src/linkedin.svg" height="32" alt="linkedin"  style="margin: 4px">
-  </a>
-
-  <a href="https://www.instagram.com/kevmadrid_" target="_blank">
-    <img src="./src/instagram.svg" height="32" alt="instagram" style="margin: 4px">
-  </a>
-
-  <a href="https://portafolio-dev-delta.vercel.app/" target="_blank">
-    <img src="./src/web.svg" height="32" alt="portafolio web" style="margin: 4px">
-  </a>
-</div>
+<h1 align="center">Hi! I'm Kevin Madrid 👋🏻</h1>
 
 ###
 
@@ -34,6 +14,19 @@
   👨🏻‍💻 Ingeniero Informático & Fullstack Developer.
   <br/>
   🏢 Universidad Nacional de Piura & Oracle Next Education.
+</p>
+
+###
+
+<h3 align="left">✉️ Contact</h3>
+
+<p align="left">
+  - Gmail: [kjmr107@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=kjmr107@gmail.com&su=Meeting&body=Hi!%20)
+  <br/>
+  - LinkedIn: [kevinmadrid-dev](https://www.linkedin.com/in/kevinmadrid-dev)
+  <br/>
+  - Portafolio Web: [kevinmadrid-dev](https://portafolio-dev-delta.vercel.app/)
+  <br/>
 </p>
 
 ###
