@@ -20,14 +20,9 @@
 
 <h3 align="left">✉️ Contact</h3>
 
-<p align="left">
-  - Gmail: [kjmr107@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=kjmr107@gmail.com&su=Meeting&body=Hi!%20)
-  <br/>
-  - LinkedIn: [kevinmadrid-dev](https://www.linkedin.com/in/kevinmadrid-dev)
-  <br/>
-  - Portafolio Web: [kevinmadrid-dev](https://portafolio-dev-delta.vercel.app/)
-  <br/>
-</p>
+- Gmail: [kjmr107@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=kjmr107@gmail.com&su=Meeting&body=Hi!%20)
+- LinkedIn: [kevinmadrid-dev](https://www.linkedin.com/in/kevinmadrid-dev)
+- Portafolio Web: [kevinmadrid-dev](https://portafolio-dev-delta.vercel.app/)
 
 ###
 
