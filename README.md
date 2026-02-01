@@ -4,19 +4,19 @@
 
 <div align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kjmr107@gmail.com&su=Meeting&body=Hi!%20" target="_blank">
-    <img src="./src/gmail.svg" height="48" alt="gmail">
+    <img src="./src/gmail.svg" height="32" alt="gmail" style="margin: 4px">
   </a>
 
   <a href="https://www.linkedin.com/in/kevinmadrid-dev" target="_blank">
-    <img src="./src/linkedin.svg" height="48" alt="linkedin"  />
+    <img src="./src/linkedin.svg" height="32" alt="linkedin"  style="margin: 4px">
   </a>
 
   <a href="https://www.instagram.com/kevmadrid_" target="_blank">
-    <img src="./src/instagram.svg" height="48" alt="instagram"/>
+    <img src="./src/instagram.svg" height="32" alt="instagram" style="margin: 4px">
   </a>
 
   <a href="https://portafolio-dev-delta.vercel.app/" target="_blank">
-    <img src="./src/web.svg" height="48" alt="portafolio web"/>
+    <img src="./src/web.svg" height="32" alt="portafolio web" style="margin: 4px">
   </a>
 </div>
 
