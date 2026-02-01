@@ -4,13 +4,19 @@
 
 <div align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kjmr107@gmail.com&su=Meeting&body=Hi!%20" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="./src/gmail.svg" height="25" alt="gmail">
   </a>
+
   <a href="https://www.linkedin.com/in/kevinmadrid-dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="./src/linkedin.svg" height="25" alt="linkedin"  />
   </a>
+
   <a href="https://www.instagram.com/kevmadrid_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="./src/instagram.svg" height="25" alt="instagram"/>
+  </a>
+
+  <a href="https://portafolio-dev-delta.vercel.app/" target="_blank">
+    <img src="./src/web.svg" height="25" alt="portafolio web"/>
   </a>
 </div>
 
@@ -23,7 +29,7 @@
 <p align="left">
   📍 Piura, Perú.
   <br/>
-  🖱️ NTT DATA Europe & Latam.
+  🖱️ Centers Developer in NTT DATA Europe & Latam.
   <br/>
   👨🏻‍💻 Ingeniero Informático & Fullstack Developer.
   <br/>
@@ -66,16 +72,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥 My Stats</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinmadrid-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
